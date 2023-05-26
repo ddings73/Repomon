@@ -7,7 +7,19 @@ SSAFY 8기 2학기 자율프로젝트
 
 ## ☁ 목차
 
-[TOC]
+1. [서비스 소개](#-서비스-소개)
+2. [소개 영상](#-소개-영상)
+3. [주요 기능](#-주요-기능)
+4. [기능 명세서](#-기능-명세서)
+5. [API 명세서](#-api-명세서)
+6. [ERD](#-erd)
+7. [프로젝트 구조](#-프로젝트-구조)
+8. [아키텍처 구조](#-아키텍처-구조)
+9. [팀원 소개](#-팀원-소개)
+
+
+
+
 
 ## 🐀 서비스 소개
 
@@ -68,14 +80,18 @@ Github의 사용자는 나날이 증가하는 가운데, 프로젝트의 지표�
 <details>
 <summary><h4>Back_디렉토리 구조</h4></summary>
 <div markdown="1">
+ 
 ![BE TREE](./exec/tree/BE_tree.png)
+ 
 </div>
 </details>
 
 <details>
 <summary><h4>Front_디렉토리 구조</h4></summary>
 <div markdown="1">
+ 
 ![FE TREE](./exec/tree/FE_tree.png)
+ 
 </div>
 </details>
 
@@ -83,7 +99,9 @@ Github의 사용자는 나날이 증가하는 가운데, 프로젝트의 지표�
 <details>
 <summary><h4>Extension_디렉토리 구조</h4></summary>
 <div markdown="1">
+ 
 ![Extension TREE](./exec/tree/extension_tree.png)
+ 
 </div>
 </details>
 
@@ -91,7 +109,9 @@ Github의 사용자는 나날이 증가하는 가운데, 프로젝트의 지표�
 <details>
 <summary><h4>Django_디렉토리 구조</h4></summary>
 <div markdown="1">
+ 
 ![Django TREE](./exec/tree/django_tree.png)
+ 
 </div>
 </details>
 
